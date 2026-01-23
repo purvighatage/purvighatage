@@ -1,4 +1,4 @@
-<!-- Title Section -->
+k<!-- Title Section -->
 <h1 align="center">Hi 👋, I'm Purva Ghatage</h1>
 
 <!-- Subtitle Section -->
@@ -57,8 +57,8 @@
 <!-- Connect & Stats (Monochrome Mint Green) -->
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/purva-ghatage" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-3EB489?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
-<a href="https://leetcode.com/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-3EB489?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" height="30" /></a>
+<a href="https://www.linkedin.com/in/purva-ghatage-9aba04257/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-3EB489?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
+<a href="https://github.com/purvighatage" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-3EB489?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" height="30" /></a>
 <a href="mailto:purvii130709@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-3EB489?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" /></a>
 </p>
 
