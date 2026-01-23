@@ -1,4 +1,4 @@
-k<!-- Title Section -->
+<!-- Title Section -->
 <h1 align="center">Hi 👋, I'm Purva Ghatage</h1>
 
 <!-- Subtitle Section -->
@@ -6,9 +6,12 @@ k<!-- Title Section -->
 
 <!-- Typing SVG (Mint Green) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Intern;Full+Stack+Developer;Data+Analytics+Enthusiast;Transforming+Data+Into+Decisions&font=Fira+Code&center=true&width=500&height=50&color=3EB489&vCenter=true&size=22" />
-  </a>
+ <a href="https://github.com/purvighatage" target="_blank">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Intern;Full+Stack+Developer;Data+Analytics+Enthusiast;Transforming+Data+Into+Decisions&font=Fira+Code&center=true&width=500&height=50&color=3EB489&vCenter=true&size=22" 
+  />
+</a>
+
 </div>
 
 <!-- Bio & Image Section -->
